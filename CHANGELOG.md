@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-17)
+## Unreleased (2025-02-02)
+
+<section class="features">
+
+### Features
+
+-   [`06f12ee`](https://github.com/stdlib-js/stdlib/commit/06f12ee398117751359df854c9edf9e6074e1b5c) - add support for accessor arrays in `blas/ext/base/gsumpw` [(#4859)](https://github.com/stdlib-js/stdlib/pull/4859)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,8 @@
 
 <details>
 
+-   [`1d1e8b7`](https://github.com/stdlib-js/stdlib/commit/1d1e8b724cd26e6d0cd70aec5883844ea3aa8e83) - **refactor:** remove redundant code in accessor functions [(#5014)](https://github.com/stdlib-js/stdlib/pull/5014) _(by Aayush Khanna)_
+-   [`06f12ee`](https://github.com/stdlib-js/stdlib/commit/06f12ee398117751359df854c9edf9e6074e1b5c) - **feat:** add support for accessor arrays in `blas/ext/base/gsumpw` [(#4859)](https://github.com/stdlib-js/stdlib/pull/4859) _(by Aayush Khanna, Athan Reines)_
 -   [`22cd928`](https://github.com/stdlib-js/stdlib/commit/22cd9281bd0197a555ad3c577665bbb15696119e) - **docs:** update require path _(by Athan Reines)_
 -   [`dbade8e`](https://github.com/stdlib-js/stdlib/commit/dbade8ed06df1ad8cef3ecf6c1f1f729ad62a53c) - **refactor:** update `blas/ext/base/gsumpw` to follow current project conventions [(#4680)](https://github.com/stdlib-js/stdlib/pull/4680) _(by Muhammad Haris)_
 
@@ -25,8 +37,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Muhammad Haris
 
