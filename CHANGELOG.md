@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-09-15)
 
 <section class="features">
 
@@ -16,12 +16,24 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`4c5e486`](https://github.com/stdlib-js/stdlib/commit/4c5e4866ffc225fb1468ef98d156b984748a3cb1) - update implementation to preserve signed zeros
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`4c5e486`](https://github.com/stdlib-js/stdlib/commit/4c5e4866ffc225fb1468ef98d156b984748a3cb1) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
+-   [`0ad60b9`](https://github.com/stdlib-js/stdlib/commit/0ad60b9fd690c9ca94650a9252cc23c51808d036) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`1d1e8b7`](https://github.com/stdlib-js/stdlib/commit/1d1e8b724cd26e6d0cd70aec5883844ea3aa8e83) - **refactor:** remove redundant code in accessor functions [(#5014)](https://github.com/stdlib-js/stdlib/pull/5014) _(by Aayush Khanna)_
 -   [`06f12ee`](https://github.com/stdlib-js/stdlib/commit/06f12ee398117751359df854c9edf9e6074e1b5c) - **feat:** add support for accessor arrays in `blas/ext/base/gsumpw` [(#4859)](https://github.com/stdlib-js/stdlib/pull/4859) _(by Aayush Khanna, Athan Reines)_
 -   [`22cd928`](https://github.com/stdlib-js/stdlib/commit/22cd9281bd0197a555ad3c577665bbb15696119e) - **docs:** update require path _(by Athan Reines)_
