@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-09-15)
+## 0.3.0 (2026-01-31)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`4c5e486`](https://github.com/stdlib-js/stdlib/commit/4c5e4866ffc225fb1468ef98d156b984748a3cb1) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
 -   [`0ad60b9`](https://github.com/stdlib-js/stdlib/commit/0ad60b9fd690c9ca94650a9252cc23c51808d036) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`1d1e8b7`](https://github.com/stdlib-js/stdlib/commit/1d1e8b724cd26e6d0cd70aec5883844ea3aa8e83) - **refactor:** remove redundant code in accessor functions [(#5014)](https://github.com/stdlib-js/stdlib/pull/5014) _(by Aayush Khanna)_
