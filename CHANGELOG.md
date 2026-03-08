@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-08)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`12da06a`](https://github.com/stdlib-js/stdlib/commit/12da06ab695d92688f2df329c3edc95c846e3679) - **bench:** refactor to use string interpolation in blas/ext/base/gsumpw [(#10819)](https://github.com/stdlib-js/stdlib/pull/10819) _(by Kamal Singh Rautela)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Kamal Singh Rautela
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
